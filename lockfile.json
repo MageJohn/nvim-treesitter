@@ -27,7 +27,7 @@
     "revision": "02e6ecbe05633bc9a82c2a56a86a1c2fcb3c4725"
   },
   "cpp": {
-    "revision": "a7652fce5943c9d5d9c49dd8e3256a699aa33bf5"
+    "revision": "f44509141e7e483323d2ec178f2d2e6c0fc041c1"
   },
   "css": {
     "revision": "a03f1d2d1dfbf6f8e0fdca5f9ff030228241eb57"
@@ -72,7 +72,7 @@
     "revision": "59e7e41e186d3759592e9938291f69055200783f"
   },
   "glimmer": {
-    "revision": "78bc70bb3093355d46920e18729e0e70da8a000e"
+    "revision": "e35d30e60c657c8efacf1adc11b55f38da214915"
   },
   "glsl": {
     "revision": "88408ffc5e27abcffced7010fc77396ae3636d7e"
